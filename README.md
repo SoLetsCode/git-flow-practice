@@ -1,3 +1,8 @@
 git flow is awesome
 
-but brian is better
+Derek's Changes
+
+BEST ASSIGNMENT EVER
+
+hello from alana's branch working from Hawaii (I wish).
+
